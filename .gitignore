@@ -1,0 +1,6 @@
+# Logs
+*npm-debug.log
+
+# Dependency modules
+npm_modules
+typings
